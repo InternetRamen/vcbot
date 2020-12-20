@@ -1,0 +1,23 @@
+{
+  "name": "vcbot",
+  "version": "1.0.0",
+  "description": "A bot that displays vc stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "InternetRamen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InternetRamen/vcbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/InternetRamen/vcbot/issues"
+  },
+  "homepage": "https://github.com/InternetRamen/vcbot#readme"
+}
